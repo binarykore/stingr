@@ -6,7 +6,7 @@
 
 ```php
 Require_Once($_SERVER["DOCUMENT_ROOT"]."/vendor/autoload.php");
-use \stringr\core as api;
+use \stingr\core as api;
 ```
 
 * You might wanna checkout my full blog about this Project on my Patreon Page via patreon/@binarymako
